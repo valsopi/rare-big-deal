@@ -750,7 +750,7 @@ Free & open-source.
 | ✍️ | [Typoro](https://typoro.com/) | The LinkedIn Ghostwriter for Busy Founders. | **30% OFF for 3 months with code BLACKFRIDAY** | 2025-12-05 |
 | 🤖| [ScribePilot AI](https://scribepilotai.com/) | Automate content creation for SEO and organic traffic on autopilot. | **40% OFF with code BLACKFRIDAY25** | 2025-11-30 |
 | ✅ | [post bridge](https://post-bridge.com) | post to all social platforms from one dashboard. easy to use, fairly priced, and with human support | **25% OFF** for a year with code **BF25** | 2025-12-02 |
-
+| ⌨️ | [BlogMaker](https://blogmaker.app) | A powerful blogging tool that makes it easy to create and run a fully customizable blog. | **30% OFF** for 3–months with code **THANKS** | 2025-12-05 |
 
 ### Affiliate Marketing
 
